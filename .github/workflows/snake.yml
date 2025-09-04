@@ -2,11 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Corre cada 12 horas
-  workflow_dispatch:        # Permite ejecutarlo manualmente
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write # 👈 Agrega esta línea para dar permisos de escritura
+  contents: write
 
 jobs:
   build:
@@ -31,3 +31,5 @@ jobs:
           author_email: github-actions@github.com
           message: "🐍 Update Snake animation"
           add: "dist/*"
+          # Agrega esta línea para hacer un pull antes de hacer el commit y el push
+          pull: true
