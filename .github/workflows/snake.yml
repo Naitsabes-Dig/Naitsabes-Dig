@@ -2,8 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Corre cada 12 horas
-  workflow_dispatch:          # Permite ejecutarlo manualmente
+    - cron: "0 */12 * * *" # Corre cada 12 horas
+  workflow_dispatch:        # Permite ejecutarlo manualmente
+
+permissions:
+  contents: write # 👈 Agrega esta línea para dar permisos de escritura
 
 jobs:
   build:
