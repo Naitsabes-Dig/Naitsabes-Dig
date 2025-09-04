@@ -36,11 +36,6 @@ Me encanta resolver problemas, aprender cosas nuevas y construir soluciones que 
   <img src="https://streak-stats.demolab.com?user=Naitsabes-Dig&theme=radical&border_radius=10" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/Naitsabes-Dig/Naitsabes-Dig/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</div>
-
-
 ---
 
 ## 🛠 Lenguajes y Herramientas  
