@@ -1,39 +1,40 @@
 <div align="center">
-  <h2>👋 Hello there, fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h2>
-  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="40px"/>
+  <h1>👋 Hi, I'm Sebastian!</h1>
+  <h3>A passionate <b>Android & Web Developer</b> | Python Enthusiast | Always Learning 🚀</h3>
+  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="50px"/>
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="350"/>
+  <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="400"/>
 </div>
 
 <div align="center">
-  You've discovered my GitHub profile! 🚀<br>
-  I work on <b>Android apps, Python projects, web development, and automation scripts</b>. <br>
-  Feel free to fork projects, raise issues, or submit PRs. <br>
-  Ask me anything <a href="https://github.com/ANii693"><b>here</b></a> or via <a href="mailto:sebastian@example.com"><b>email</b></a>.<br>
-  <i>Happy coding! 😎</i>
+  Welcome to my GitHub profile! 😎<br>
+  I work on <b>Android apps, Python scripts, web development, and automation projects</b>.<br>
+  Feel free to fork, raise issues, or submit PRs!<br>
+  Ask me anything <a href="https://github.com/Naitsabes-Dig"><b>here</b></a> or via <a href="mailto:dignosebastiangutierrezoropeza@gmail.com"><b>email</b></a>.<br>
+  <i>Happy coding! 💻✨</i>
 </div>
 
 ---
 
 <div align="center">
-  <h3>💻 My GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=ANii693&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" width="480">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANii693&layout=compact&theme=dark" alt="Top Languages" width="320">
+  <h3>💻 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Naitsabes-Dig&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naitsabes-Dig&layout=compact&theme=radical" alt="Top Languages" width="350"/>
 </div>
 
 ---
 
 <div align="center">
   <h3>🌱 Currently Learning</h3>
-  Full-Stack Web Development, Advanced Android, and AI/ML applications.
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="300" align="right">
+  Full-Stack Web Development, Advanced Android, AI/ML Applications.<br>
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="320" align="right"/>
 </div>
 
 ---
 
-<h3 align="left">🛠 Languages & Tools:</h3>
+<h3 align="left">🛠 Languages & Tools</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -51,7 +52,7 @@
 
 ---
 
-<h3 align="left">📫 Connect with me:</h3>
+<h3 align="left">📫 Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/digno-sebastian-gutierrez-oropeza" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -62,21 +63,4 @@
   <a href="https://www.facebook.com/originalphreak" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"/>
-  </a>
-  <a href="https://dev.to/ANii693" target="_blank">
-    <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"/>
-  </a>
 </p>
-
----
-
-<div align="center">
-  <i>Random dev joke for you! 😂</i><br>
-  <a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="Dev Jokes"/></a>
-</div>
-
----
-
-<p align="center">Profile Views: <img src="https://komarev.com/ghpvc/?username=ANii693&style=flat-square" alt="Profile views"/></p>
