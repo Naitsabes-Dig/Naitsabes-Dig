@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write # 👈 Agrega esta línea para dar permisos de escritura
 
 jobs:
   build:
@@ -31,5 +31,4 @@ jobs:
           author_email: github-actions@github.com
           message: "🐍 Update Snake animation"
           add: "dist/*"
-          # Agrega esta línea para hacer un pull antes de hacer el commit y el push
-          pull: true
+          pull: true # 👈 Agrega esta línea para resolver el error "non-fast-forward"
