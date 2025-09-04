@@ -40,6 +40,7 @@ Me encanta resolver problemas, aprender cosas nuevas y construir soluciones que 
   <img src="https://github.com/Naitsabes-Dig/Naitsabes-Dig/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
+
 ---
 
 ## 🛠 Lenguajes y Herramientas  
