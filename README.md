@@ -7,9 +7,8 @@ Un apasionado **Android & Web Developer** | Entusiasta de **Python** | Siempre *
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="400"/>
+  <img src="[https://i.imgur.com/dTYwdG1.gif](https://github.com/user-attachments/assets/8e3f6fd5-3716-48f7-96c9-e8784d0517a7)" alt="Welcome!" width="400"/>
 </div>
-
 ---
 
 ## 🌟 Sobre Mí  
